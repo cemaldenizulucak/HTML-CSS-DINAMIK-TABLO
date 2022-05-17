@@ -1,0 +1,25 @@
+#deneme {
+    border-collapse: collapse;
+    width: 80%;
+   
+    }
+     
+    #deneme td, #deneme th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    }
+     
+
+     
+    #deneme tr:hover {
+    background-color: #a52dbd;
+    color:#fff;
+    }
+     
+    #deneme th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4b0547;
+    color: white;
+    }
